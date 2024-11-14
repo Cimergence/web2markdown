@@ -22,3 +22,18 @@ Clone the repository, modify the `BASE_URL` to target the desired website, and r
 ---
 
 This description is both concise and thorough, making it easy for users to understand the purpose and capabilities of the tool. Let me know if you'd like to add any specific details!
+
+
+
+######################
+
+# Initialisation
+create a virtual environment
+```python
+virtualenv venv
+```
+
+install the requirements:
+```python
+pip install -r requirements.txt 
+```
