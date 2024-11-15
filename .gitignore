@@ -171,3 +171,4 @@ chrome-linux/*
 processed/*
 outputs/*
 docs/sign.png
+src/scraped_markdown_pages/*
