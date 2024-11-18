@@ -3,3 +3,6 @@ beautifulsoup4
 crawl4ai
 nest-asyncio==1.6.0
 markdownify==0.13.1
+deep-translator==1.11.4
+detectlanguage==1.5.0
+sentence_transformers
